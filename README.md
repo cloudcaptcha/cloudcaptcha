@@ -20,6 +20,6 @@ console.log(error);
   <p>I'm a programmer from Indonesia who loves cats and code. Here's where I share my journey.</p>
   
   <img alt="YoruAkio streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudcaptcha" />
-</div>
 
   <p>I'm a programmer from Indonesia who only uses a laptop with Linux OS for learning.</p>
+  </div>
